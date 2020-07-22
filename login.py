@@ -1,1 +1,2 @@
 like = ls
+ls = cute
